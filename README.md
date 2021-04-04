@@ -9,7 +9,7 @@ My other interests are in audio engineering & production, guitars and motorcycle
 ![](https://gitwar.herokuapp.com/badge?username=sonnyrr&label=Profile+views&style=plastic&color=green)
 
 ## Technology Stack
-
+<div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
@@ -23,7 +23,7 @@ My other interests are in audio engineering & production, guitars and motorcycle
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-
+</div>
 <br/>
 
 <div align="center" sty>
