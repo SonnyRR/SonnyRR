@@ -5,47 +5,42 @@ My other interests are in audio engineering & production, guitars and motorcycle
 
 [![GitHub SonnyRR](https://img.shields.io/github/followers/SonnyRR?label=follow&style=social)](https://github.com/SonnyRR)
 [![LinkedIn: vasilkotsev](https://img.shields.io/badge/-vasil.kotsev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasilkotsev/)](https://www.linkedin.com/in/vasilkotsev/)
-[![Hackerrank: VasilKotsev](https://img.shields.io/badge/-VasilKotsev-black?style=plastic&logo=hackerrank&logoColor=green&text=black&link=https://www.hackerrank.com/VasilKotsev)](https://www.linkedin.com/in/vasilkotsev/)
+[![Hackerrank: VasilKotsev](https://img.shields.io/badge/-VasilKotsev-black?style=plastic&logo=hackerrank&logoColor=green&text=black&link=https://www.hackerrank.com/VasilKotsev)](https://www.hackerrank.com/VasilKotsev)
 ![](https://gitwar.herokuapp.com/badge?username=sonnyrr&label=Profile+views&style=plastic&color=green)
 ## Technology Stack
-<table><tr><td valign="top" width="33%" style="border: none;">
 
-
-
-<h3 style="text-align: center">Frontend  </h3>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-</div>
-
-</td><td valign="top" width="33%" style="border: none;">
-
-
-
-<h3 style="text-align: center;">Backend</h3>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-</div>
-
-</td><td valign="top" width="33%" style="border: none;">
-
-
-
-<h3 style="text-align: center;">DevOps</h3>  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-</td></tr></table>  
+<table>
+    <tr>
+        <td valign="top" width="33%" style="border: none;">
+            <h3 style="text-align: center">Frontend </h3>
+            <div align="center">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+            </div>
+        </td>
+        <td valign="top" width="33%" style="border: none;">
+            <h3 style="text-align: center;">Backend</h3>
+            <div align="center">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
+            </div>
+        </td>
+        <td valign="top" width="33%" style="border: none;">
+            <h3 style="text-align: center;">DevOps</h3>
+            <div align="center">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+            </div>
+        </td>
+    </tr>
+</table>
 
 <br/> 
 
