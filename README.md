@@ -8,7 +8,7 @@ My other interests are in audio engineering & production, guitars and motorcycle
 [![Hackerrank: VasilKotsev](https://img.shields.io/badge/-VasilKotsev-black?style=plastic&logo=hackerrank&logoColor=green&text=black&link=https://www.hackerrank.com/VasilKotsev)](https://www.linkedin.com/in/vasilkotsev/)
 ![](https://gitwar.herokuapp.com/badge?username=sonnyrr&label=Profile+views&style=plastic&color=green)
 ## Technology Stack
-<table><tr><td valign="top" width="33%" style="border: none">
+<table><tr><td valign="top" width="33%" style="border: none;">
 
 
 
@@ -22,22 +22,22 @@ My other interests are in audio engineering & production, guitars and motorcycle
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 </div>
 
-</td><td valign="top" width="33%" style="border: none">
+</td><td valign="top" width="33%" style="border: none;">
 
 
 
-<h3 style="text-align: center">Backend</h3>
+<h3 style="text-align: center;">Backend</h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 </div>
 
-</td><td valign="top" width="33%" style="border: none">
+</td><td valign="top" width="33%" style="border: none;">
 
 
 
-<h3 style="text-align: center">DevOps</h3>  
+<h3 style="text-align: center;">DevOps</h3>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
