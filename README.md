@@ -7,6 +7,7 @@ My other interests are in audio engineering & production, guitars and motorcycle
 [![LinkedIn: vasilkotsev](https://img.shields.io/badge/-vasil.kotsev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasilkotsev/)](https://www.linkedin.com/in/vasilkotsev/)
 [![Hackerrank: VasilKotsev](https://img.shields.io/badge/-VasilKotsev-black?style=plastic&logo=hackerrank&logoColor=green&text=black&link=https://www.hackerrank.com/VasilKotsev)](https://www.hackerrank.com/VasilKotsev)
 ![](https://gitwar.herokuapp.com/badge?username=sonnyrr&style=plastic&color=green)
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SonnyRR&repo=SonnyRR&countColorcountColor&countColor=%23ff1493)
 
 ## Technology Stack
