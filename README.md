@@ -1,7 +1,6 @@
 # Vasil Kotsev
 
-I'm а software developer & consultant with a passion for the .NET ecosystem.
-My other interests are in audio engineering & production, guitars and motorcycles.
+.NET Full-stack Developer & Software Consultant.	
 
 [![GitHub SonnyRR](https://img.shields.io/github/followers/SonnyRR?label=follow&style=social)](https://github.com/SonnyRR)
 [![LinkedIn: vasilkotsev](https://img.shields.io/badge/-vasil.kotsev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasilkotsev/)](https://www.linkedin.com/in/vasilkotsev/)
