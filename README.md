@@ -1,6 +1,6 @@
 # Vasil Kotsev
 
-.NET Full-stack Developer & Software Consultant.	
+.NET Full-stack Developer & Software Consultant. Worked with clients in the financial, manufacturing and civil engineering sectors while engaging in the whole development lifecycle and helping them build their desired systems.
 
 [![GitHub SonnyRR](https://img.shields.io/github/followers/SonnyRR?label=follow&style=social)](https://github.com/SonnyRR)
 [![LinkedIn: vasilkotsev](https://img.shields.io/badge/-vasil.kotsev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasilkotsev/)](https://www.linkedin.com/in/vasilkotsev/)
