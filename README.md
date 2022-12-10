@@ -36,5 +36,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sonnyrr&theme=gotham&hide_border=true&background=FFFFFF00">
 </div>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sonnyrr&theme=gotham&hide_border=true&bg_color=00000000"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sonnyrr&theme=gotham&hide_border=true&bg_color=00000000"/>
 </div>
