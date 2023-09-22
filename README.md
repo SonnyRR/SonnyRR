@@ -3,7 +3,7 @@
 .NET Full-stack Developer & Software Consultant. Worked with clients in the financial, manufacturing and civil engineering sectors while engaging in the whole development lifecycle and helping them build their desired systems.
 
 [![GitHub SonnyRR](https://img.shields.io/github/followers/SonnyRR?label=follow&style=social)](https://github.com/SonnyRR)
-[![LinkedIn: vasilkotsev](https://img.shields.io/badge/-vasil.kotsev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasilkotsev/)](https://www.linkedin.com/in/vasilkotsev/)
+[![LinkedIn: Vasil Kotsev](https://img.shields.io/badge/-vasil.kotsev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasil-kotsev/)](https://www.linkedin.com/in/vasil-kotsev/)
 [![Hackerrank: VasilKotsev](https://img.shields.io/badge/-VasilKotsev-black?style=plastic&logo=hackerrank&logoColor=green&text=black&link=https://www.hackerrank.com/VasilKotsev)](https://www.hackerrank.com/VasilKotsev)
 ![](https://gitwar.herokuapp.com/badge?username=sonnyrr&style=plastic&color=green)
 
