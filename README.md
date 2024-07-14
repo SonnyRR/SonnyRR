@@ -1,6 +1,6 @@
 # Vasil Kotsev
 
-Full-stack Software Engineer & Software Consultant. Worked with clients in the financial, manufacturing, civil engineering & commodity sectors while engaging in the whole development lifecycle and helping them build their desired systems. Experienced in the .NET ecosystem.
+Software Engineer and Consultant with experience in the financial, cross-commodity price reporting, civil engineering, manufacturing and health-management sectors. Worked with clients from all across the globe, while engaging in the whole development lifecycle in order to help them build and maintain their core business systems.
 
 [![LinkedIn: Vasil Kotsev](https://img.shields.io/badge/-vasil.kotsev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasil-kotsev/)](https://www.linkedin.com/in/vasil-kotsev/)
 
