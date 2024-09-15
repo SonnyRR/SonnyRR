@@ -3,7 +3,8 @@
 Software Engineer and Consultant with experience in the financial, cross-commodity price reporting, civil engineering, manufacturing and health-management sectors. Worked with clients from all across the globe, while engaging in the whole development lifecycle in order to help them build and maintain their core business systems.
 
 [![LinkedIn: Vasil Kotsev](https://img.shields.io/badge/-vasil.kotsev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasil-kotsev/)](https://www.linkedin.com/in/vasil-kotsev/)
-
+---
+<!-- 
 ## Technology Stack
 <div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
@@ -21,7 +22,8 @@ Software Engineer and Consultant with experience in the financial, cross-commodi
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 </div>
-<br/>
+<br/> 
+-->
 
 <div align="center" sty>
     <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=sonnyrr&show_icons=true&count_private=true&hide_border=true&theme=gotham&bg_color=00000000" align="left" />
