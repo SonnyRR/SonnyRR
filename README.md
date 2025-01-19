@@ -29,7 +29,7 @@ Software Engineer and Consultant with experience in the financial, cross-commodi
     <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=SonnyRR&theme=gotham&hide_border=true&bg_color=00000000">
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sonnyrr&theme=gotham&hide_border=true&background=FFFFFF00">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sonnyrr&theme=gotham&hide_border=true&background=FFFFFF00">
 </div>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonnyrr&theme=gotham&hide_border=true&bg_color=00000000"/>
