@@ -1,6 +1,6 @@
 # Vasil Kotsev
 
-Software Engineer and Consultant with experience in the financial, cross-commodity price reporting, civil engineering, manufacturing and health-management sectors. Worked with clients from all across the globe, while engaging in the whole development lifecycle in order to help them build and maintain their core business systems.
+Software Engineer and Consultant with experience in the financial, cross-commodity price reporting, civil engineering and manufacturing sectors. I have worked with clients from all across the globe, while engaging in the whole development lifecycle in order to help them build and maintain their core business systems. I have a proven track record of delivering high-quality software solutions with a strong focus on detail and reliability. Also, I'm experienced in mentoring people.
 
 <!--[![LinkedIn: Vasil Kotsev](https://img.shields.io/badge/-vasil.kotsev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasil-kotsev/)](https://www.linkedin.com/in/vasil-kotsev/) -->
 <!-- 
