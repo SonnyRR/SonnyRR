@@ -1,6 +1,6 @@
 # Vasil Kotsev
 
-Senior Software Engineer and Consultant with experience in the financial, cross-commodity price reporting, civil engineering and manufacturing sectors. I have worked with clients from all across the globe, while engaging in the whole development lifecycle in order to help them build and maintain their core business systems. I have a proven track record of delivering high-quality software solutions with a strong focus on detail and reliability. Also, I'm experienced in mentoring people.
+Principal Software Engineer and Consultant with experience in the financial, cross-commodity price reporting, civil engineering and manufacturing sectors. I have worked with clients from all across the globe, while engaging in the whole development lifecycle in order to help them build and maintain their core business systems. I have a proven track record of delivering high-quality software solutions with a strong focus on detail and reliability. Also, I'm experienced in mentoring people.
 
 <div align="center" sty>
     <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=sonnyrr&show_icons=true&count_private=true&hide_border=true&theme=gotham&bg_color=00000000" align="left" />
